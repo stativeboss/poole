@@ -1,9 +1,9 @@
 # Setup
 title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+tagline: Stativeboss
+url: https://stativeboss.github.io/
 paginate: 1
-baseurl: ""
+baseurl: "https://stativeboss.github.io/poole"
 permalink: pretty
 
 # Gems
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Irivinti Shiva Teja
+  url: https://stativeboss.github.io/
+  email: irivinti6@gmail.com
 
 # Custom vars
 version: 3.0.0
