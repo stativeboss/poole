@@ -3,7 +3,7 @@ title: Poole
 tagline: Stativeboss
 url: https://stativeboss.github.io/
 paginate: 1
-baseurl: "https://stativeboss.github.io/poole/"
+baseurl: https://stativeboss.github.io/poole/
 permalink: pretty
 
 # Gems
